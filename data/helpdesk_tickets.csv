@@ -1,0 +1,101 @@
+ticket_id,timestamp,issue,department,priority,resolved
+10001,2024-06-01 16:47:00,System crash,IT,High,Yes
+10002,2024-06-01 04:26:00,Software install required,Sales,High,Yes
+10003,2024-06-01 12:23:00,System crash,Sales,Medium,Yes
+10004,2024-06-01 09:30:00,VPN not working,IT,Medium,Yes
+10005,2024-06-01 14:43:00,System crash,Sales,High,Yes
+10006,2024-06-01 13:20:00,System crash,Sales,Low,No
+10007,2024-06-01 20:58:00,VPN not working,Sales,High,Yes
+10008,2024-06-01 22:50:00,Email access issue,Finance,Medium,Yes
+10009,2024-06-01 12:11:00,Slow internet,IT,High,Yes
+10010,2024-06-01 06:53:00,Slow internet,Sales,Low,No
+10011,2024-06-01 02:19:00,VPN not working,IT,High,Yes
+10012,2024-06-01 10:37:00,Email access issue,HR,Medium,No
+10013,2024-06-01 07:22:00,VPN not working,Sales,Low,No
+10014,2024-06-01 23:30:00,Email access issue,Sales,Medium,No
+10015,2024-06-01 08:16:00,Software install required,Marketing,High,No
+10016,2024-06-01 18:59:00,System crash,IT,High,No
+10017,2024-06-01 19:27:00,Slow internet,Marketing,Medium,Yes
+10018,2024-06-01 12:56:00,Software install required,IT,High,No
+10019,2024-06-01 01:16:00,Email access issue,IT,Medium,No
+10020,2024-06-01 19:29:00,VPN not working,Sales,High,No
+10021,2024-06-01 02:35:00,System crash,Sales,High,No
+10022,2024-06-01 23:48:00,System crash,Finance,High,No
+10023,2024-06-01 11:00:00,Software install required,HR,Medium,No
+10024,2024-06-01 03:50:00,System crash,Sales,Low,Yes
+10025,2024-06-01 23:30:00,Email access issue,Finance,Medium,Yes
+10026,2024-06-01 12:34:00,System crash,Marketing,Low,Yes
+10027,2024-06-01 05:44:00,Software install required,HR,Low,Yes
+10028,2024-06-01 21:19:00,VPN not working,Finance,Low,No
+10029,2024-06-01 19:11:00,System crash,IT,Low,No
+10030,2024-06-01 11:22:00,System crash,Finance,Low,No
+10031,2024-06-01 07:22:00,Slow internet,Sales,Low,Yes
+10032,2024-06-01 15:58:00,Email access issue,Finance,Low,No
+10033,2024-06-01 13:14:00,VPN not working,Marketing,High,No
+10034,2024-06-01 04:50:00,Software install required,IT,High,Yes
+10035,2024-06-01 15:30:00,Slow internet,Marketing,High,No
+10036,2024-06-01 20:09:00,Software install required,Marketing,Medium,No
+10037,2024-06-01 08:25:00,Software install required,IT,Medium,No
+10038,2024-06-01 09:00:00,Software install required,Sales,Low,No
+10039,2024-06-01 01:50:00,System crash,Sales,High,No
+10040,2024-06-01 16:12:00,System crash,Finance,High,Yes
+10041,2024-06-01 01:25:00,Software install required,Marketing,Medium,No
+10042,2024-06-01 04:04:00,Software install required,HR,Low,Yes
+10043,2024-06-01 11:57:00,Email access issue,HR,Medium,Yes
+10044,2024-06-01 03:42:00,Email access issue,Sales,Low,Yes
+10045,2024-06-01 21:42:00,Slow internet,Sales,Low,Yes
+10046,2024-06-01 04:11:00,Email access issue,IT,Low,No
+10047,2024-06-01 03:23:00,System crash,HR,Medium,Yes
+10048,2024-06-01 20:25:00,Slow internet,HR,Medium,No
+10049,2024-06-01 13:14:00,Email access issue,HR,High,No
+10050,2024-06-01 13:00:00,Slow internet,Sales,Medium,Yes
+10051,2024-06-01 19:16:00,VPN not working,IT,Medium,No
+10052,2024-06-01 19:06:00,Software install required,Sales,Low,Yes
+10053,2024-06-01 05:25:00,Software install required,Marketing,Medium,Yes
+10054,2024-06-01 19:24:00,Email access issue,Sales,High,Yes
+10055,2024-06-01 19:20:00,Slow internet,Finance,High,Yes
+10056,2024-06-01 06:48:00,Slow internet,IT,Low,Yes
+10057,2024-06-01 15:11:00,Slow internet,HR,Medium,No
+10058,2024-06-01 23:44:00,System crash,Sales,High,Yes
+10059,2024-06-01 15:15:00,System crash,HR,Medium,Yes
+10060,2024-06-01 09:45:00,VPN not working,IT,Low,Yes
+10061,2024-06-01 12:46:00,Software install required,IT,Low,No
+10062,2024-06-01 00:43:00,VPN not working,Marketing,Low,No
+10063,2024-06-01 00:15:00,Slow internet,Sales,Medium,Yes
+10064,2024-06-01 00:15:00,Email access issue,Sales,High,Yes
+10065,2024-06-01 10:46:00,Email access issue,HR,Medium,No
+10066,2024-06-01 09:47:00,System crash,Finance,High,Yes
+10067,2024-06-01 10:28:00,Software install required,Finance,Medium,No
+10068,2024-06-01 16:11:00,Email access issue,IT,Low,Yes
+10069,2024-06-01 08:58:00,VPN not working,IT,High,Yes
+10070,2024-06-01 09:02:00,Email access issue,HR,High,Yes
+10071,2024-06-01 11:53:00,VPN not working,Marketing,Low,No
+10072,2024-06-01 09:59:00,System crash,Marketing,Low,Yes
+10073,2024-06-01 03:24:00,System crash,Marketing,Low,Yes
+10074,2024-06-01 15:21:00,System crash,Sales,Medium,No
+10075,2024-06-01 17:25:00,Email access issue,Marketing,Medium,No
+10076,2024-06-01 19:05:00,VPN not working,Marketing,Medium,No
+10077,2024-06-01 20:55:00,Software install required,Finance,High,No
+10078,2024-06-01 11:02:00,VPN not working,IT,Low,Yes
+10079,2024-06-01 08:11:00,Software install required,Finance,Medium,Yes
+10080,2024-06-01 14:07:00,System crash,Sales,Low,No
+10081,2024-06-01 06:57:00,Email access issue,Marketing,High,Yes
+10082,2024-06-01 20:59:00,System crash,IT,Low,Yes
+10083,2024-06-01 20:29:00,Software install required,Finance,Low,Yes
+10084,2024-06-01 05:42:00,System crash,Finance,Medium,No
+10085,2024-06-01 20:35:00,Email access issue,HR,Low,No
+10086,2024-06-01 18:36:00,System crash,HR,High,Yes
+10087,2024-06-01 18:24:00,Software install required,Marketing,High,Yes
+10088,2024-06-01 14:41:00,VPN not working,IT,Medium,Yes
+10089,2024-06-01 18:28:00,Email access issue,IT,Low,Yes
+10090,2024-06-01 11:40:00,Slow internet,HR,Low,No
+10091,2024-06-01 16:54:00,Slow internet,Sales,Medium,No
+10092,2024-06-01 13:03:00,VPN not working,HR,High,Yes
+10093,2024-06-01 06:04:00,VPN not working,Marketing,High,No
+10094,2024-06-01 11:46:00,Software install required,Sales,Low,No
+10095,2024-06-01 09:03:00,System crash,Marketing,High,No
+10096,2024-06-01 19:15:00,Email access issue,Sales,Medium,Yes
+10097,2024-06-01 15:10:00,VPN not working,Sales,High,Yes
+10098,2024-06-01 10:33:00,Slow internet,Sales,Medium,Yes
+10099,2024-06-01 12:10:00,System crash,Sales,Low,No
+10100,2024-06-01 08:36:00,Slow internet,Finance,Low,No

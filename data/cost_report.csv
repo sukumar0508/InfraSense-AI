@@ -1,0 +1,13 @@
+month,server_id,service,cost
+2024-04,srv_001,EC2 Instance,152.65
+2024-05,srv_001,EC2 Instance,115.18
+2024-06,srv_001,Elastic Load Balancer,190.95
+2024-04,srv_002,RDS,116.3
+2024-05,srv_002,S3 Storage,123.31
+2024-06,srv_002,RDS,116.76
+2024-04,srv_003,S3 Storage,184.12
+2024-05,srv_003,Elastic Load Balancer,181.07
+2024-06,srv_003,Elastic Load Balancer,108.47
+2024-04,srv_004,EC2 Instance,190.27
+2024-05,srv_004,EC2 Instance,89.79
+2024-06,srv_004,Elastic Load Balancer,107.32
