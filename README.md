@@ -1,4 +1,4 @@
-# 🚀 InfraSense AI – Intelligent IT Infrastructure Monitoring, Optimization & Automation
+# 🚀 InfraSense AI – Intelligent IT Infrastructure Monitoring, Optimization & Automation Using Machine learning and Power bi
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-Live--App-red?logo=streamlit)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
@@ -122,5 +122,3 @@ Author: Sukumar Bose Koyyagura
 - Cloud Deployment
 
 ---
-
-Let me know if you'd like a one-line bullet for your resume, a Notion-style layout, or a shorter LinkedIn summary too!
